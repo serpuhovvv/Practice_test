@@ -1,3 +1,3 @@
 # practice_test
 Это учебный проект на платформе SkillFactory. В ходе тестирования сайта были разработаны тест-кейсы, чек-лист и список багов.
-Ссылка на проект в Google-drive: http://surl.li/aflxz
+Ссылка на проект в Google-drive: https://clck.ru/XUEWt
